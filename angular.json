@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "qlgd"
+    }
+  },
+  "defaultProject": "qlgd",
+  "cli": {
+    "analytics": false
+  }
 }
